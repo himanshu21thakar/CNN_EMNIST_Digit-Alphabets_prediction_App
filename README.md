@@ -94,12 +94,13 @@ It provides two easy-to-use input methods:
 
 ## 👨‍💻 Author
 
-**Abhishek Tadaskar**
+**Himanshu Thakar**
 
 AI & Data Science Enthusiast
 
 📍 India
 
 > 💬 "Turning code into creativity — one model at a time."
+
 
 
