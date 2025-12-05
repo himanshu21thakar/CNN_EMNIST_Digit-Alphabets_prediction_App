@@ -5,7 +5,7 @@ A web app built with **Streamlit** and **TensorFlow** that can recognize **handw
 You can draw directly on a digital canvas or upload an image of a handwritten character, and the app will predict which character it is — along with the top 5 most likely predictions.
 
 ---
-👉 **Live Demo:** [https://cnnemnistdigit-alphapredictionapp-abhishektadaskar.streamlit.app/](https://cnnemnistdigit-alphapredictionapp-abhishektadaskar.streamlit.app/)
+👉 **Live Demo:** [https://cnn-emnist-digit-himanshu.streamlit.app/](https://cnn-emnist-digit-himanshu.streamlit.app/)
 
 ---
 
@@ -101,6 +101,7 @@ AI & Data Science Enthusiast
 📍 India
 
 > 💬 "Turning code into creativity — one model at a time."
+
 
 
 
